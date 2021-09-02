@@ -5,3 +5,4 @@ Git tracks changes of files.
 Get new skills.
 Git checkout branch.
 Git switch branch.
+Git try to create conflict.
