@@ -3,3 +3,4 @@ Git is free software distributed the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Get new skills.
+Git checkout branch.
