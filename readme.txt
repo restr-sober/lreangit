@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Get new skills.
 Git checkout branch.
+Git switch branch.
